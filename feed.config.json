@@ -1,0 +1,12 @@
+{
+  "days_posted": 3,
+  "show_titles": true,
+  "titles_per_service": 3,
+  "services": [
+    { "label": "Workflow automation", "query": "zapier OR make.com OR n8n" },
+    { "label": "AI support agents",   "query": "chatbot OR \"AI agent\" OR \"customer support automation\"" },
+    { "label": "Customer support ops","query": "zendesk OR freshdesk OR intercom" },
+    { "label": "Virtual assistance",  "query": "\"virtual assistant\"" },
+    { "label": "GPT & Claude workflows","query": "\"OpenAI API\" OR \"Claude API\" OR \"prompt engineering\"" }
+  ]
+}
