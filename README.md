@@ -2,72 +2,91 @@
 
 # Turab Ali
 
-**Virtual Assistant · Customer Support · AI Workflow Automation**
+**Co-founder, [Forjwell](https://forjwell.com) · Full-stack product, web & marketing agency**
 
-I handle the work that needs a person and automate the rest.
+We design, build and grow digital products: mobile apps, platforms, e-commerce and brands.
 
+[![Forjwell](https://img.shields.io/badge/Forjwell-forjwell.com-111?style=for-the-badge)](https://forjwell.com)
+&nbsp;
+[![Forjwell Marketing](https://img.shields.io/badge/Forjwell_Marketing-Creative_%26_Growth-111?style=for-the-badge)](https://forjwellmarketing.com)
+&nbsp;
 [![Hire me on Upwork](https://img.shields.io/badge/Hire_me_on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~011043f24e7ae6ee10)
-&nbsp;
-![Available](https://img.shields.io/badge/Available-30%2B_hrs%2Fweek-111?style=for-the-badge)
-&nbsp;
-![Timezone](https://img.shields.io/badge/UTC%2B5-US_hours_OK-111?style=for-the-badge)
 
 </div>
 
 ---
 
-### What I'm taking on
+### What we build
 
-| | Service | Typical job |
+| | Service | Typical engagement |
 |---|---|---|
-| ⚙️ | **Workflow automation** | Zapier, Make and n8n flows that connect your tools and remove manual data entry |
-| 🤖 | **AI support agents** | Chatbots and GPT / Claude agents that deflect repeat questions before a human sees them |
-| 🎧 | **Customer support ops** | Ticket handling, escalations and QA in Zendesk, Freshdesk and Intercom |
-| 🗂️ | **Virtual assistance** | Inbox, calendar and daily admin, run end to end |
-| 🧠 | **GPT & Claude workflows** | Drafted replies, ticket summaries and automated reports |
-| 📘 | **SOPs & process docs** | Playbooks that keep operations running without you in every thread |
+| 📱 | **Mobile apps & platforms** | Customer, staff and admin apps with a shared backend and web dashboard |
+| 🛒 | **Websites & e-commerce** | Shopify builds, Stripe payments, custom sites and product catalogs |
+| ⚙️ | **Automation & AI** | Crawlers, AI agents and Zapier / Make / n8n workflows |
+| 🎨 | **Brand & design systems** | Tokens, type scales, component libraries, logos and prompt packs |
+| 📣 | **Marketing & content** | Paid social, ad creatives, video edits, ebooks and campaign reporting |
 
 ---
 
-### Selected work
+### 📱 Apps & platforms
 
-| Project | What it shows |
+| Project | What we built |
 |---|---|
-| [**Support Operations Pack**](portfolio/support-ops-pack.md) | Ticket triage matrix, escalation policy and QA scorecard, built from six years leading a US claims support team |
-| _More coming_ | Automation builds added here as they ship |
+| **Crew & services platform** · _yachting industry_ | Marketplace connecting yacht owners with crew and service providers. Brand system, app design and build |
+| **Field-service platform** · _US pest control company_ | Three products on one system: office web dashboard, technician mobile app and customer mobile app. Scheduling with slot-fit rules, SMS / in-app chat, live technician ETA, property-manager parent accounts |
+| **Inventory Watch** · _militaria auction dealer_ | Crawler PWA that monitors auction inventory and flags new listings. Delivered and live |
+| **Trading verification platform** · _finance creators_ | Broker-neutral platform that verifies creators' trading results |
+| **[Forjwell One](https://forjwellone.com)** · _in-house product_ | Agency project management app: projects, milestones, deliverables, client approvals and internal notes |
+
+### 🛒 Websites & e-commerce
+
+| Project | What we built |
+|---|---|
+| **Women's wellness brand** | Full website build with copy, legal pages and a searchable plant database |
+| **Fitness lifestyle brand** | Multi-page Shopify store with Stripe, merch line, loyalty token mechanic and AI video |
+| **Streetwear label** | Design system, logo suite and Shopify catalog restructure for product drops |
+| **Luxury goods house** | Proposal and scope for an 18-SKU ultra-luxury Shopify build |
+
+### 🎨 Brand & content
+
+| Project | What we built |
+|---|---|
+| **Airport coffee guide** · _travel media brand_ | Premium ebook: 185 coffee stops across 10 airports, extracted by OCR and rendered to PDF, plus branded social series |
+| **Creator brand system** · _content creator_ | Full brand system and content templates for a personal creator brand |
+| **Art exhibition campaign** · _nonprofit foundation_ | Campaign creative, agreements and design prompt packs for a resilience-themed exhibition |
+
+### 📣 Marketing & ads
+
+| Project | What we built |
+|---|---|
+| **NYC fashion retailer** | 15-day paid social performance report with 30-day forecast and funnel analysis, 15 ad creatives, campaign video edits |
+| **Scuba & marine adventure brand** | Instagram content and audience research to shape the marketing plan |
+
+<sub>Client names withheld. Case details available on request.</sub>
 
 ---
 
 ### Stack
 
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111?style=flat-square&logo=vercel&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-8B5CF6?style=flat-square&logo=flydotio&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-111?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white)
-![Freshdesk](https://img.shields.io/badge/Freshdesk-25C16F?style=flat-square&logo=freshdesk&logoColor=white)
-![Intercom](https://img.shields.io/badge/Intercom-1F8DED?style=flat-square&logo=intercom&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
-![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white)
-
----
-
-### Live on Upwork: jobs I'm watching
-
-<!-- UPWORK-FEED:START -->
-_Feed updates daily once the GitHub Action is connected._
-<!-- UPWORK-FEED:END -->
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
 
 ---
 
 <div align="center">
 
-**Tell me what slows your team down. I'll tell you what to automate and what needs a person.**
+**Have a product to build or a brand to grow? Let's talk.**
 
-[Upwork](https://www.upwork.com/freelancers/~011043f24e7ae6ee10)
+[forjwell.com](https://forjwell.com) · [forjwellmarketing.com](https://forjwellmarketing.com) · [Upwork](https://www.upwork.com/freelancers/~011043f24e7ae6ee10)
 
 </div>
