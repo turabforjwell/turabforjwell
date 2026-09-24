@@ -66,6 +66,25 @@ We design, build and grow digital products: mobile apps, platforms, e-commerce a
 
 ---
 
+### 🟢 Open for work on Upwork
+
+Alongside Forjwell, I take freelance contracts on Upwork. Jobs I'm looking for:
+
+| | Job type | What I deliver |
+|---|---|---|
+| ⚙️ | **[Workflow automation](https://www.upwork.com/nx/search/jobs/?q=zapier%20OR%20make.com%20OR%20n8n&sort=recency)** | Zapier, Make and n8n flows that connect your tools and remove manual data entry |
+| 🤖 | **[AI support agents & chatbots](https://www.upwork.com/nx/search/jobs/?q=chatbot%20OR%20%22AI%20agent%22&sort=recency)** | GPT / Claude agents that answer repeat questions before a human sees them |
+| 🎧 | **[Customer support ops](https://www.upwork.com/nx/search/jobs/?q=zendesk%20OR%20freshdesk%20OR%20intercom&sort=recency)** | Ticket handling, escalations and QA in Zendesk, Freshdesk and Intercom |
+| 🗂️ | **[Virtual assistance](https://www.upwork.com/nx/search/jobs/?q=%22virtual%20assistant%22&sort=recency)** | Inbox, calendar and daily admin, run end to end |
+| 🧠 | **[GPT & Claude workflows](https://www.upwork.com/nx/search/jobs/?q=%22OpenAI%20API%22%20OR%20%22prompt%20engineering%22&sort=recency)** | Drafted replies, ticket summaries and automated reports |
+| 📘 | **[SOPs & process docs](https://www.upwork.com/nx/search/jobs/?q=SOP%20documentation&sort=recency)** | Playbooks that keep operations running without you in every thread |
+
+**Portfolio:** [Support Operations Pack](portfolio/support-ops-pack.md) — ticket triage matrix, escalation policy and QA scorecard
+
+[![Hire me on Upwork](https://img.shields.io/badge/Hire_me_on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~011043f24e7ae6ee10)
+
+---
+
 ### Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
